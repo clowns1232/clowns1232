@@ -1,5 +1,8 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=taehyeun%20Hwang&fontSize=90)
 
+## 나의 소개
+자바스크립가 너무 좋아 프론트엔드를 선택하였고 성장하고 있는 황태현입니다.
+
 ## 💻 STACK
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>

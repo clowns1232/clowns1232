@@ -1,4 +1,4 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=taehyeun%20Hwang&fontSize=90)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hwang%20taehyeun&fontSize=90)
 
 ## 나의 소개
 

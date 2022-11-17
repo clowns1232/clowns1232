@@ -38,4 +38,4 @@
 
 [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/4cd8b2770d66418787af7207c9bfe744) [<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>](clowns1232@gmail.com)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Have%20a%20Good%20Day&fontSize=70)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Have%20a%20Good%20Day!&fontSize=70)

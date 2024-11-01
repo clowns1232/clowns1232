@@ -7,14 +7,23 @@
 2021년 04월부터 2023년 05월까지
 알서포트에서 리모트미팅이라는 화상 회의 웹애플리케이션을 프론트엔드를 개발했고
 
-2023년 07월 부터
-교보문고에서 프론트엔드 개발자로 일하고 있습니다.
+2023년 10월 부터
+랜당모산에서 프론트엔드 개발자로 일하다
+몸상태가 나빠져서
+
+2024년 11월 부터 휴식 중 입니다.
 
 
 # 경력사항
 
-## 2. 교보문고
-1. 수습기간 동안 기존 JS로 되어있는 프론트엔드를 React(또는 next)로 변환 작업 검토
+## 2. 랜당머신
+1. P2P업체로 대출앱 및 투자앱 개발 및 유지보수를 진행하였습니다.
+2. Vue로 만들어진 하이브리드앱인 대출앱을 주로 유지보수 작업을 진행
+   1. 안드로이드앱 : https://play.google.com/store/apps/details?id=kr.co.lendingmachine.moneymove
+   2. IOS앱 : https://apps.apple.com/kr/app/%EB%A8%B8%EB%8B%88%EB%AC%B4%EB%B8%8C-%EB%8C%80%EC%B6%9C/id1634168008
+4. Next.js로 만들어진 하이브리드앱인 투자앱을 기획단계부터 참여하여 설계 개발 배포까지 작업을 진행했습니다.
+   1. 안드로이드앱 : https://play.google.com/store/apps/details?id=ai.moneymove.intergrate&hl=ko
+   2. IOS앱 : https://apps.apple.com/kr/app/%EB%A8%B8%EB%8B%88%EB%AC%B4%EB%B8%8C/id6497795057 
 
 ## 1. 알서포트
 
